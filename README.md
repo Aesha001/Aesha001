@@ -10,6 +10,21 @@
 - **Tools**: Git, Docker, Jenkins
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Logo" width="50" height="50"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Logo" width="50" height="50"/>
 
+## Skills
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Java](https://img.shields.io/badge/Java-11-orange)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-16.13.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-12.18.3-green)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
 
 ## GitHub Stats
 
