@@ -1,5 +1,6 @@
 # Hello, I'm Aesha 👋
 
+< imge src="https://img.shields.io/badge/dynamic/json"/>
 
 ## Skills
 
