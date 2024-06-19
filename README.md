@@ -3,7 +3,8 @@
 
 ## Skills
 
-- **Languages**: JavaScript, Python(https://python.org/)
+- **Languages**: JavaScript, Python(https://python.org/)<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Logo" width="50" height="50"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Logo" width="50" height="50"/>
+
 - **Frameworks**: Django,Node.js
 - **Tools**: Git, Docker, Jenkins
 
