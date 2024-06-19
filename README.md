@@ -3,9 +3,9 @@
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Spring
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: JavaScript, Python(https://python.org/)
+- **Frameworks**: Django,Node.js
+- **Tools**: Git, Docker, Jenkins
 
 ## GitHub Stats
 
@@ -27,5 +27,5 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/janeDoe)
-- [Twitter](https://twitter.com/janeDoe)
+- [LinkedIn](https://www.linkedin.com/in/aesha-shah-69285a264)
+
